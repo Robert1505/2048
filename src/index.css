@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'Clear Sans';
+  src: url('./assets/fonts/clear_sans/ClearSans-Bold.ttf') format('woff2');
+}
+
 body{
   background-color: #FAF8EF;
   padding: 0;
   margin: 0;
+  font-family: 'Clear Sans';
 }
